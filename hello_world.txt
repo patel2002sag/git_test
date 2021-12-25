@@ -1,2 +1,4 @@
 Hello My name is Sagar. What is yours?
 -Thank You for looking through my git. 
+These are some of the new changes that I am testing. 
+I am learning how to use git. 
